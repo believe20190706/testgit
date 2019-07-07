@@ -5,7 +5,5 @@ public class happy {
 		int i=0;
 		int j=i;
 		int k=j;
-		int l=k;
-
 	}
 }
